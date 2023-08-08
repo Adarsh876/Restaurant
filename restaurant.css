@@ -1,0 +1,226 @@
+*{
+    margin: 0px;
+  
+}
+body{
+  font-family: Knockout,sans-serif!important;
+}
+html{
+    scroll-behavior: smooth;overflow: visible;
+}
+.container{
+    width: 100%;
+    height: 90px;
+    background-color:#fdc526;
+    position: relative;
+    margin-top: -0.7rem;
+    
+}
+.navbar{
+   
+    margin-left: 90px;
+    align-items: center;
+    width: 100%;
+    font-weight: bold;
+    font-size: 17px;
+    
+}
+.navbar a{
+  text-decoration: none;
+  color: black;
+  
+}
+
+.navbar span{
+    padding: 8px;
+   margin-left: 1rem;
+   margin-top: 0.8rem;
+}
+#glass{
+    margin-left: 20rem;
+}
+#logo{
+  margin-left: 4rem;
+}
+
+ul{
+    display: inline-block;
+   
+    display: flex;
+    margin-left: 100px;
+    align-items: center;
+    width: 75%;
+    list-style-type: none;
+    }
+    .links:hover{
+    color: red;
+    }
+.navb{
+    padding: 20px;
+    margin-top: 1rem;
+    
+#section{
+    margin-top:-100px;
+}
+  }
+  .description{
+    width: 98.7%;
+    height: 55px;
+     background-color: rgb(39, 26, 26);
+     color: rgb(233, 209, 209);
+     padding: 10px;
+     text-align: center;
+     margin-top: -5px;
+}
+.description p{
+  margin-top: 4px;
+}
+.menu{
+  text-align: center;
+  margin-top: 5rem;
+}
+.menu h3{
+  margin-top: 3rem;
+}
+.food_images{
+  margin-top: 3rem;
+  margin-left: 9rem;
+  display: flex;
+  justify-content: space-around; 
+  overflow: hidden;
+}
+.food_names{
+  margin-top: 1rem;
+  margin-left: 9rem;
+  display: flex;
+  justify-content: space-around; 
+}
+.food_names p{
+  margin-top: .5rem;
+}
+.flower_img{
+  display: flex;
+  margin-top: -10rem;
+  justify-content: space-between;
+}
+.img1{
+  transition: transform 0.3s ease; 
+}
+.img1:hover img{
+  transform: scale(1.1);
+}
+.img2{
+  transition: transform 0.3s ease; 
+}
+.img2:hover img{
+  transform: scale(1.1);
+}
+.img3{
+  transition: transform 0.3s ease; 
+}
+.img3:hover img{
+  transform: scale(1.1);
+}
+.img4{
+  transition: transform 0.3s ease; 
+}
+.img4:hover img{
+  transform: scale(1.1);
+}
+.img5{
+  transition: transform 0.3s ease; 
+}
+.img5:hover img{
+  transform: scale(1.1);
+}
+.img6{
+  transition: transform 0.3s ease; 
+}
+.img6:hover img{
+  transform: scale(1.1);
+}
+.aboutus{
+  width: 100%;
+  height: 600px;
+  background-color: red;
+  margin-top: -3rem;
+  display: flex;
+  color: white;
+  font-weight: bolder;
+  align-items: center;
+  justify-content: center;
+}
+.column_1{
+  margin-left: -17rem;
+}
+.column_2{
+  margin-left: 4rem;
+  margin-top: -3.5rem;
+}
+.column_3{
+  margin-left: 4rem;
+  margin-top: -6rem;
+}
+.footer{
+  width: 100%;
+  height: 150px;
+  background-color: red;
+  color: white;
+  display: flex;
+}
+.inbox{
+  height: 30px;
+  width: 350px;
+  margin-left: 9rem;
+}
+.inbox h3{
+  font-weight: bolder;
+
+}
+.icons{
+  margin-left: 30rem;
+  justify-content: space-between;
+  color: white;
+  display: flex;
+  margin-top: 1rem;
+
+}
+.icons span{
+  padding: 15px
+}
+.icon1:hover i{
+  transform: scale(1.2);
+}
+.icon2:hover i{
+  transform: scale(1.2);
+}
+.icon3:hover i{
+  transform: scale(1.2);
+}
+.icon4:hover i{
+  transform: scale(1.2);
+}
+.mail_box{
+  background-color: red;
+  width: 100%;
+  height: 500px;
+}
+.up-arrow{
+  float: right;
+ margin-right: 4rem;
+ border-radius: 50px;
+ width: 40px;
+ height: 40px;
+ background-color:orange;
+ align-items: center;
+ justify-content: center;
+
+}
+.up-arrow i{
+  margin-left: .5rem;
+  margin-top: .2rem;
+}
+.up-arrow:hover i{
+  color: white;
+  transform: scale3d(1.1);
+}  
